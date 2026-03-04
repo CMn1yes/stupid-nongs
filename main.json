@@ -1,0 +1,24 @@
+{
+  "manifest": 1,
+  "name": "CM's Stupid NONGs",
+  "id": "cm-stupid-nongs",
+  "description": "This is stupid NONGs. I love big booty men - Abderian",
+  "lastUpdate": 1700000000,
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["hosted"]
+    }
+  },
+  "nongs": {
+    "hosted": {
+      "55b8bb78-3826-4b8d-aae7-ac25b7d0e3f0": {
+        "name": "Please work",
+        "artist": "China",
+        "startOffset": 0,
+        "url": "https://audio.jukehost.co.uk/YgfwqibLxcX64IozWcooK2mhbE6noGEF",
+        "songs": [334244]
+      }
+    },
+    "youtube": {}
+  }
+}
