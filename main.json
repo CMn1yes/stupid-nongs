@@ -1,24 +1,73 @@
 {
-  "manifest": 1,
-  "name": "CM's Stupid NONGs",
-  "id": "cm-stupid-nongs",
-  "description": "This is stupid NONGs. I love big booty men - Abderian",
-  "lastUpdate": 1700000002,
-  "features": {
-    "submit": {
-      "supportedSongTypes": ["hosted"]
-    }
-  },
-  "nongs": {
-    "hosted": {
-      "7ce4db00-01f5-4948-9362-2e8da82968ae": {
-        "name": "Axevisia",
-        "artist": "Daniel Frikandel",
-        "startOffset": 0,
-        "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/axevisia.mp3",
-        "songs": [251801]
-      }
+    "manifest": 1,
+    "name": "CM's Stupid NONGs",
+    "id": "cm-stupid-nongs",
+    "description": "This is stupid NONGs. I love big booty men - Abderian",
+    "lastUpdate": 1700000003,
+    "features": {
+        "submit": {
+            "supportedSongTypes": [
+                "hosted"
+            ]
+        }
     },
-    "youtube": {}
-  }
+    "nongs": {
+        "hosted": {
+            "7ce4db00-01f5-4948-9362-2e8da82968ae": {
+                "name": "Axevisia",
+                "artist": "Daniel Frikandel",
+                "startOffset": 0,
+                "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/axevisia.mp3",
+                "songs": [
+                    251801
+                ]
+            },
+            "c2ba5fa4-55ab-4d24-a0d8-cd7146f35a1d": {
+                "name": "Bioscoop Absolute",
+                "artist": "Ed Sheeran",
+                "startOffset": 0,
+                "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/Bioscoop%20Absolute.mp3",
+                "songs": [
+                    6767
+                ]
+            },
+            "2da8a467-7567-4341-8efc-5a5cd997b918": {
+                "name": "PUSSYJUICE",
+                "artist": "MR DELUXE",
+                "startOffset": 0,
+                "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/MR.DELUXE%20-%20PUSSYJUICE.mp3",
+                "songs": [
+                    876713
+                ]
+            },
+            "ed9ba4a8-aa7c-4df8-904a-0b68692993e8": {
+                "name": "Witte Kerst Met Jou",
+                "artist": "MR DELUXE",
+                "startOffset": 0,
+                "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/MR.DELUXE%20-%20Witte%20Kerst%20Met%20Jou.mp3",
+                "songs": [
+                    1004333
+                ]
+            },
+            "897272e7-14cf-4422-b463-19f53ac93320": {
+                "name": "De Notenkraker",
+                "artist": "MR DELUXE",
+                "startOffset": 0,
+                "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/MR.DELUXE%20-%20De%20Notenkraker.mp3",
+                "songs": [
+                    1158210
+                ]
+            },
+            "006f15f0-f795-4363-abfe-af3b0d782856": {
+                "name": "ZIJ WAS VERLIEFD",
+                "artist": "MR DELUXE",
+                "startOffset": 0,
+                "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/MR.DELUXE%20-%20ZIJ%20WAS%20VERLIEFD.mp3",
+                "songs": [
+                    765390
+                ]
+            }
+        },
+        "youtube": {}
+    }
 }
