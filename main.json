@@ -3,7 +3,7 @@
   "name": "CM's Stupid NONGs",
   "id": "cm-stupid-nongs",
   "description": "This is stupid NONGs. I love big booty men - Abderian",
-  "lastUpdate": 1700000001,
+  "lastUpdate": 1700000002,
   "features": {
     "submit": {
       "supportedSongTypes": ["hosted"]
@@ -15,7 +15,7 @@
         "name": "Axevisia",
         "artist": "Daniel Frikandel",
         "startOffset": 0,
-        "url": "https://audio.jukehost.co.uk/YgfwqibLxcX64IozWcooK2mhbE6noGEF",
+        "url": "https://raw.githubusercontent.com/CMn1yes/stupid-nongs/main/songs/axevisia.mp3",
         "songs": [251801]
       }
     },
