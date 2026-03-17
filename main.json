@@ -3,7 +3,7 @@
     "name": "CM's Stupid NONGs",
     "id": "cm-stupid-nongs",
     "description": "This is stupid NONGs. I love big booty men - Abderian",
-    "lastUpdate": 1700000004,
+    "lastUpdate": 1700000005,
     "features": {
         "submit": {
             "supportedSongTypes": [
@@ -65,6 +65,24 @@
                 "url": "https://audio.jukehost.co.uk/R480stGn2j8Ua2ZIuzQuZDx8bdRPSzk1",
                 "songs": [
                     765390
+                ]
+            },
+            "b238a4ba-b724-4f02-a442-f71838db46fe": {
+                "name": "Box Of Stars Pt.1",
+                "artist": "Jacob Collier",
+                "startOffset": 0,
+                "url": "https://audio.jukehost.co.uk/fvkBnYqcLRd0Wx7JZeXyrsYNOKS45e6M",
+                "songs": [
+                    10011780
+                ]
+            },
+            "54bf260a-f429-4cee-a9a7-db17c85b3b0f": {
+                "name": "Box Of Stars Pt.2",
+                "artist": "Jacob Collier",
+                "startOffset": 0,
+                "url": "https://audio.jukehost.co.uk/e1AUR06Il8Mdgv5roqbIgSIwDYNXslYP",
+                "songs": [
+                    10011764
                 ]
             }
         },
